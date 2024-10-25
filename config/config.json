@@ -1,0 +1,35 @@
+
+{
+  "development2": {
+    "username": "root",
+    "password": "",
+    "database": "ROS",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+     "port": 3306,
+    "logging": "console.log"
+  },
+   "development": {
+    "username": "stxmhugi_stxmhugi",
+    "password": "nRYm87U59i7uA",
+    "database": "stxmhugi_ROS",
+    "host": "bh8948.banahosting.com",
+    "dialect": "mysql",
+     "port": 3306,
+    "logging": "console.log"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
